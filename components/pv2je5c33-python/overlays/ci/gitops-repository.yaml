@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: pv2je5c33-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/pv2je5c33-python-gitops
